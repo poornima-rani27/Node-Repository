@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "20.3.0",
+  "description": "simple we app",
+  "main": "servercreate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poornima-rani27/node-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poornima-rani27/node-repository/issues"
+  },
+  "homepage": "https://github.com/poornima-rani27/node-repository#readme"
+}
